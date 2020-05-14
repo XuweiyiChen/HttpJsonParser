@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dotify</string>
+    <string name="first_avenger">first_avenger</string>
+    <string name="change_user">Change User</string>
+    <string name="image_of_the_album_dark_side_of_the_moon_by_pink_floyd">image of the album dark side of the moon by Pink Floyd</string>
+    <string name="time">Time</string>
+    <string name="pink_floyd_david_gilmour_roger_waters_syd_barrett_richard_wright_nick_mason_bob_klose">Pink Floyd: David Gilmour, Roger Waters, Syd Barrett, Richard Wright, Nick Mason, Bob Klose</string>
+    <string name="previous">previous</string>
+    <string name="play">play</string>
+    <string name="next">next</string>
+    <string name="skip_previous_button">skip previous button</string>
+    <string name="play_button">play button</string>
+    <string name="skip_next_button">skip next button</string>
+    <string name="the_picture_of_song">the picture of song</string>
+    <string name="pink_floyd">Pink Floyd</string>
+    <string name="shuffle">shuffle</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fetch">Fetch</string>
+    <string name="fetch_image">Fetch Image</string>
+    <string name="users_photo">Users\' photo</string>
+    <string name="how_many_times_click_0">How many times click: 0</string>
+    <string name="username">Username</string>
+</resources>
